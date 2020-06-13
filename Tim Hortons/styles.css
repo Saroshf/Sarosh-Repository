@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+#main {
+    width: 700px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+h1 {
+    text-align: center;
+}
+#simdisp {
+    text-align: center;
+    font-size: 50px;
+}
+#provimg {
+    width: 600px;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+}
